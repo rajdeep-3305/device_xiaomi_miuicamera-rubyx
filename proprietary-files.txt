@@ -1,6 +1,6 @@
-# All unpinned blobs below are extracted from ruby V2.0.8.0.UMOCNXM
+# All unpinned blobs below are extracted from ruby V2.0.2.0 UMOMIXM
 
-product/priv-app/MiuiCamera/MiuiCamera.apk:system_ext/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Aperture
+product/priv-app/MiuiCamera/MiuiCamera.apk:system_ext/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Snap,Camera2,Aperture
 
 # Camera (Libraries) - from plato 15 AP3A.240905.015.A2 OS2.0.207.0.VLQMIXM release-keys
 system/etc/public.libraries-xiaomi.txt|b6855bdbb7e37f0bc866d71c9e0ede4243febbe2
